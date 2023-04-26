@@ -5,10 +5,18 @@ public class AtmApp {
         System.out.println("Java ist easy");
         //version 2
         System.out.println("v3");
+<<<<<<< HEAD
 //version3
         System.out.println("v4");
 //version 4
 
+=======
+//version 3
+        System.out.println("v4");
+//version 4
+        System.out.println("Branc kodlari yazildi");
+//mustafa icinversion 5
+>>>>>>> mustafa
 
 
     }
