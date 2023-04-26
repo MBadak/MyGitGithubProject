@@ -4,9 +4,11 @@ public class Accaount {
         for (int i = 0; i < 6 ; i++) {
             System.out.println(i);
 
+
+
         }
 
-
+// versiyon 8
 
 
     }
