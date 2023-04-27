@@ -16,8 +16,9 @@ public class AtmApp {
 //version 4
         System.out.println("Branc kodlari yazildi");
 //mustafa icinversion 5
-
-
+      
+        
+        // remote repoda degisiklik yaptim.
 
     }
 }
